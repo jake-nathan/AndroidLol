@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_first_layout"
+
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_second_layout"
+
+            android:title="PhoneSwap" />
+        <item
+            android:id="@+id/nav_third_layout"
+
+            android:title="Groups" />
+        <item
+            android:id="@+id/nav_fourth_layout"
+
+            android:title="Inbox" />
+        <item
+            android:id="@+id/nav_fifth_layout"
+
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_sixth_layout"
+
+            android:title="Sent" />
+        <item
+            android:id="@+id/nav_seventh_layout"
+
+            android:title="Settings" />
+        <item
+            android:id="@+id/nav_eighth_layout"
+
+            android:title="Privacy Policy" />
+    </group>
+
+
+
+</menu>
